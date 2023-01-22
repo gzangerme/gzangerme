@@ -25,7 +25,7 @@ Descrição.
 
 ___
 
-### 🧰 Linguagens de Programação e Ferramentas
+### Linguagens de Programação e Ferramentas
     
 <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
@@ -36,7 +36,7 @@ ___
     
 #
 
-### 🖊️ Certificados de Tecnologia
+### Certificados de Tecnologia
     
 <a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
 <a href="https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
@@ -49,18 +49,18 @@ ___
 #
     
 <details open>
-  <summary><h3>📊 Estatísticas do GitHub</h3></summary>
+  <summary><h3>Estatísticas do GitHub</h3></summary>
    
-  <h3>💻 Estatísticas de Perfil e 🔥 Streak</h3>
+  <h3>Estatísticas de Perfil e 🔥 Streak</h3>
   <img alt="Gzangerme's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=gzangerme&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
   <img alt="ThiagoPanini's Streak Stats" src="https://streak-stats.demolab.com/?user=gzangerme&theme=tokyonight&hide_border=true" height="165px"/></a>
   <br/>
   
-  <h3>💪 Gráfico de Contribuição (Últimos 30d)</h3>
+  <h3>Gráfico de Contribuição (Últimos 30d)</h3>
   <img alt="Gzangerme's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=gzangerme&theme=tokyo-night&hide_border=true"/></a>
   <br/>
   
-  <h3>🦾 Gráfico de Contribuição (Último ano)</h3>
+  <h3>Gráfico de Contribuição (Último ano)</h3>
   <img alt="Gzangerme's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzangerme&theme=tokyonight&hide_border=true"/></a>
   <br>
   
